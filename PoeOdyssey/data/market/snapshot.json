@@ -1,0 +1,298 @@
+{
+  "gameVersion": "3.29",
+  "dataVersion": "currency-exchange-1785074400",
+  "parserVersion": "1.0.0",
+  "updatedAt": "2026-07-26T15:58:18.171Z",
+  "source": {
+    "label": "Grinding Gear Games public Currency Exchange history",
+    "url": "https://www.pathofexile.com/developer/docs/reference#currency-exchange",
+    "license": "GGG Developer API policy",
+    "mode": "official"
+  },
+  "league": "Allflame",
+  "realm": "pc",
+  "stale": false,
+  "warning": "GGG 公開 Currency Exchange API 不含台服 Hotcool；此處為國際服 Allflame 每小時歷史，台服價格請以官方市集為準。",
+  "entries": [
+    {
+      "id": "chaos-orb",
+      "metadataId": "Metadata/Items/Currency/CurrencyRerollRare",
+      "name": {
+        "zhTW": "混沌石",
+        "en": "Chaos Orb"
+      },
+      "category": "一般通貨",
+      "chaosValue": 1,
+      "divineValue": 0.0165,
+      "volume": 5066780,
+      "stock": 161859,
+      "history": [
+        {
+          "at": "2026-07-26T14:00:00.000Z",
+          "chaosValue": 1
+        }
+      ],
+      "officialTradeUrl": "https://pathofexile.tw/trade/exchange/亡焰咒海"
+    },
+    {
+      "id": "divine-orb",
+      "metadataId": "Metadata/Items/Currency/CurrencyModValues",
+      "name": {
+        "zhTW": "神聖石",
+        "en": "Divine Orb"
+      },
+      "category": "一般通貨",
+      "chaosValue": 60.5,
+      "divineValue": 1,
+      "volume": 48714,
+      "stock": 696,
+      "history": [
+        {
+          "at": "2026-07-26T14:00:00.000Z",
+          "chaosValue": 60.5
+        }
+      ],
+      "officialTradeUrl": "https://pathofexile.tw/trade/exchange/亡焰咒海"
+    },
+    {
+      "id": "exalted-orb",
+      "metadataId": "Metadata/Items/Currency/CurrencyAddModToRare",
+      "name": {
+        "zhTW": "崇高石",
+        "en": "Exalted Orb"
+      },
+      "category": "一般通貨",
+      "chaosValue": 0.75,
+      "divineValue": 0.0124,
+      "volume": 60463,
+      "stock": 12870,
+      "history": [
+        {
+          "at": "2026-07-26T14:00:00.000Z",
+          "chaosValue": 0.75
+        }
+      ],
+      "officialTradeUrl": "https://pathofexile.tw/trade/exchange/亡焰咒海"
+    },
+    {
+      "id": "orb-of-annulment",
+      "metadataId": "Metadata/Items/Currency/CurrencyRemoveMod",
+      "name": {
+        "zhTW": "無效石",
+        "en": "Orb of Annulment"
+      },
+      "category": "一般通貨",
+      "chaosValue": 5,
+      "divineValue": 0.0826,
+      "volume": 13053,
+      "stock": 1714,
+      "history": [
+        {
+          "at": "2026-07-26T14:00:00.000Z",
+          "chaosValue": 5
+        }
+      ],
+      "officialTradeUrl": "https://pathofexile.tw/trade/exchange/亡焰咒海"
+    },
+    {
+      "id": "vaal-orb",
+      "metadataId": "Metadata/Items/Currency/CurrencyCorrupt",
+      "name": {
+        "zhTW": "瓦爾寶珠",
+        "en": "Vaal Orb"
+      },
+      "category": "一般通貨",
+      "chaosValue": 0.75,
+      "divineValue": 0.0124,
+      "volume": 108356,
+      "stock": 23841,
+      "history": [
+        {
+          "at": "2026-07-26T14:00:00.000Z",
+          "chaosValue": 0.75
+        }
+      ],
+      "officialTradeUrl": "https://pathofexile.tw/trade/exchange/亡焰咒海"
+    },
+    {
+      "id": "orb-of-alchemy",
+      "metadataId": "Metadata/Items/Currency/CurrencyUpgradeToRare",
+      "name": {
+        "zhTW": "點金石",
+        "en": "Orb of Alchemy"
+      },
+      "category": "一般通貨",
+      "chaosValue": 0.185,
+      "divineValue": 0.0031,
+      "volume": 92970,
+      "stock": 18256,
+      "history": [
+        {
+          "at": "2026-07-26T14:00:00.000Z",
+          "chaosValue": 0.185
+        }
+      ],
+      "officialTradeUrl": "https://pathofexile.tw/trade/exchange/亡焰咒海"
+    },
+    {
+      "id": "orb-of-fusing",
+      "metadataId": "Metadata/Items/Currency/CurrencyRerollSocketLinks",
+      "name": {
+        "zhTW": "鏈結石",
+        "en": "Orb of Fusing"
+      },
+      "category": "品質通貨",
+      "chaosValue": 0.35,
+      "divineValue": 0.0058,
+      "volume": 925585,
+      "stock": 28055,
+      "history": [
+        {
+          "at": "2026-07-26T14:00:00.000Z",
+          "chaosValue": 0.35
+        }
+      ],
+      "officialTradeUrl": "https://pathofexile.tw/trade/exchange/亡焰咒海"
+    },
+    {
+      "id": "chromatic-orb",
+      "metadataId": "Metadata/Items/Currency/CurrencyRerollSocketColours",
+      "name": {
+        "zhTW": "幻色石",
+        "en": "Chromatic Orb"
+      },
+      "category": "品質通貨",
+      "chaosValue": 1.5,
+      "divineValue": 0.0248,
+      "volume": 46496,
+      "stock": 9091,
+      "history": [
+        {
+          "at": "2026-07-26T14:00:00.000Z",
+          "chaosValue": 1.5
+        }
+      ],
+      "officialTradeUrl": "https://pathofexile.tw/trade/exchange/亡焰咒海"
+    },
+    {
+      "id": "jewellers-orb",
+      "metadataId": "Metadata/Items/Currency/CurrencyRerollSocketNumbers",
+      "name": {
+        "zhTW": "工匠石",
+        "en": "Jeweller's Orb"
+      },
+      "category": "品質通貨",
+      "chaosValue": 0.526,
+      "divineValue": 0.0087,
+      "volume": 630930,
+      "stock": 26829,
+      "history": [
+        {
+          "at": "2026-07-26T14:00:00.000Z",
+          "chaosValue": 0.526
+        }
+      ],
+      "officialTradeUrl": "https://pathofexile.tw/trade/exchange/亡焰咒海"
+    },
+    {
+      "id": "regal-orb",
+      "metadataId": "Metadata/Items/Currency/CurrencyUpgradeMagicToRare",
+      "name": {
+        "zhTW": "富豪石",
+        "en": "Regal Orb"
+      },
+      "category": "一般通貨",
+      "chaosValue": 0.583,
+      "divineValue": 0.0096,
+      "volume": 26004,
+      "stock": 5214,
+      "history": [
+        {
+          "at": "2026-07-26T14:00:00.000Z",
+          "chaosValue": 0.583
+        }
+      ],
+      "officialTradeUrl": "https://pathofexile.tw/trade/exchange/亡焰咒海"
+    },
+    {
+      "id": "orb-of-scouring",
+      "metadataId": "Metadata/Items/Currency/CurrencyConvertToNormal",
+      "name": {
+        "zhTW": "重鑄石",
+        "en": "Orb of Scouring"
+      },
+      "category": "一般通貨",
+      "chaosValue": 0.667,
+      "divineValue": 0.011,
+      "volume": 100720,
+      "stock": 18472,
+      "history": [
+        {
+          "at": "2026-07-26T14:00:00.000Z",
+          "chaosValue": 0.667
+        }
+      ],
+      "officialTradeUrl": "https://pathofexile.tw/trade/exchange/亡焰咒海"
+    },
+    {
+      "id": "ancient-orb",
+      "metadataId": "Metadata/Items/Currency/CurrencyRerollUnique",
+      "name": {
+        "zhTW": "古變石",
+        "en": "Ancient Orb"
+      },
+      "category": "特殊通貨",
+      "chaosValue": 4,
+      "divineValue": 0.0661,
+      "volume": 16299,
+      "stock": 3391,
+      "history": [
+        {
+          "at": "2026-07-26T14:00:00.000Z",
+          "chaosValue": 4
+        }
+      ],
+      "officialTradeUrl": "https://pathofexile.tw/trade/exchange/亡焰咒海"
+    },
+    {
+      "id": "cortex-fragment",
+      "metadataId": "Metadata/Items/MapFragments/CurrencyUberBossKeyCortex",
+      "name": {
+        "zhTW": "夢魘擬像碎片",
+        "en": "Cortex Fragment"
+      },
+      "category": "打王碎片",
+      "chaosValue": 41,
+      "divineValue": 0.6777,
+      "volume": 1899,
+      "stock": 235,
+      "history": [
+        {
+          "at": "2026-07-26T14:00:00.000Z",
+          "chaosValue": 41
+        }
+      ],
+      "officialTradeUrl": "https://pathofexile.tw/trade/exchange/亡焰咒海"
+    },
+    {
+      "id": "torment-scarab",
+      "metadataId": "Metadata/Items/Scarabs/ScarabTormentNew4",
+      "name": {
+        "zhTW": "罪魂聖甲蟲 IV",
+        "en": "Torment Scarab IV"
+      },
+      "category": "聖甲蟲",
+      "chaosValue": 0.667,
+      "divineValue": 0.011,
+      "volume": 102,
+      "stock": 163,
+      "history": [
+        {
+          "at": "2026-07-26T14:00:00.000Z",
+          "chaosValue": 0.667
+        }
+      ],
+      "officialTradeUrl": "https://pathofexile.tw/trade/exchange/亡焰咒海"
+    }
+  ]
+}
