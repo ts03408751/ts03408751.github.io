@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "status": "not-yet-published",
+  "engine": {
+    "name": "Path of Building Community",
+    "version": "2.66.2",
+    "commit": "e0cc037d8b268304473454ab8b5296350f5b0d2b"
+  },
+  "artifacts": [],
+  "notice": "首版尚未購買商業程式碼簽章；Windows 可能顯示 SmartScreen 警告。"
+}
