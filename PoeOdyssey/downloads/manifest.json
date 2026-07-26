@@ -1,11 +1,22 @@
 {
-  "version": "0.1.0",
-  "status": "not-yet-published",
+  "notice": "Unsigned first release; Windows SmartScreen may warn.",
   "engine": {
-    "name": "Path of Building Community",
     "version": "2.66.2",
-    "commit": "e0cc037d8b268304473454ab8b5296350f5b0d2b"
+    "commit": "e0cc037d8b268304473454ab8b5296350f5b0d2b",
+    "name": "Path of Building Community"
   },
-  "artifacts": [],
-  "notice": "首版尚未購買商業程式碼簽章；Windows 可能顯示 SmartScreen 警告。"
+  "version": "v0.1.0",
+  "artifacts": [
+    {
+      "sha256": "3aa0fc12825677542e6ba470f54f8fc62511b9dc8271cd758c2e8eca973674ef",
+      "name": "PoeOdyssey-Bridge-Portable-0.1.0-x64.exe",
+      "url": "https://github.com/ts03408751/PoeOdyssey/releases/download/v0.1.0/PoeOdyssey-Bridge-Portable-0.1.0-x64.exe"
+    },
+    {
+      "sha256": "620e6dcb010b0925815cd3c1f48a2d6e7d3a02b2c01d5bfa9553f7c1c80175d6",
+      "name": "PoeOdyssey-Bridge-Setup-0.1.0-x64.exe",
+      "url": "https://github.com/ts03408751/PoeOdyssey/releases/download/v0.1.0/PoeOdyssey-Bridge-Setup-0.1.0-x64.exe"
+    }
+  ],
+  "signed": false
 }
