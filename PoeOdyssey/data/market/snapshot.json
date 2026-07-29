@@ -1,8 +1,8 @@
 {
   "gameVersion": "3.29",
-  "dataVersion": "currency-exchange-1785348000",
+  "dataVersion": "currency-exchange-1785351600",
   "parserVersion": "1.0.0",
-  "updatedAt": "2026-07-29T19:39:52.290Z",
+  "updatedAt": "2026-07-29T20:30:03.069Z",
   "source": {
     "label": "Grinding Gear Games public Currency Exchange history",
     "url": "https://www.pathofexile.com/developer/docs/reference#currency-exchange",
@@ -24,15 +24,15 @@
       "category": "一般通貨",
       "chaosValue": 1,
       "divineValue": 0.006,
-      "volume": 17354556,
-      "stock": 1216177,
+      "volume": 17086208,
+      "stock": 1452119,
       "history": [
         {
           "at": "2026-07-26T14:00:00.000Z",
           "chaosValue": 1
         },
         {
-          "at": "2026-07-29T18:00:00.000Z",
+          "at": "2026-07-29T19:00:00.000Z",
           "chaosValue": 1
         }
       ],
@@ -46,18 +46,18 @@
         "en": "Divine Orb"
       },
       "category": "一般通貨",
-      "chaosValue": 165.5,
+      "chaosValue": 167.5,
       "divineValue": 1,
-      "volume": 102192,
-      "stock": 3006,
+      "volume": 98897,
+      "stock": 2632,
       "history": [
         {
           "at": "2026-07-26T14:00:00.000Z",
           "chaosValue": 60.5
         },
         {
-          "at": "2026-07-29T18:00:00.000Z",
-          "chaosValue": 165.5
+          "at": "2026-07-29T19:00:00.000Z",
+          "chaosValue": 167.5
         }
       ],
       "officialTradeUrl": "https://pathofexile.tw/trade/exchange/亡焰咒海"
@@ -71,16 +71,16 @@
       },
       "category": "一般通貨",
       "chaosValue": 1.5,
-      "divineValue": 0.0091,
-      "volume": 134024,
-      "stock": 31519,
+      "divineValue": 0.009,
+      "volume": 129810,
+      "stock": 37684,
       "history": [
         {
           "at": "2026-07-26T14:00:00.000Z",
           "chaosValue": 0.75
         },
         {
-          "at": "2026-07-29T18:00:00.000Z",
+          "at": "2026-07-29T19:00:00.000Z",
           "chaosValue": 1.5
         }
       ],
@@ -95,16 +95,16 @@
       },
       "category": "一般通貨",
       "chaosValue": 13,
-      "divineValue": 0.0785,
-      "volume": 23277,
-      "stock": 3071,
+      "divineValue": 0.0776,
+      "volume": 23128,
+      "stock": 5294,
       "history": [
         {
           "at": "2026-07-26T14:00:00.000Z",
           "chaosValue": 5
         },
         {
-          "at": "2026-07-29T18:00:00.000Z",
+          "at": "2026-07-29T19:00:00.000Z",
           "chaosValue": 13
         }
       ],
@@ -120,15 +120,15 @@
       "category": "一般通貨",
       "chaosValue": 0.75,
       "divineValue": 0.0045,
-      "volume": 167240,
-      "stock": 36695,
+      "volume": 157040,
+      "stock": 35338,
       "history": [
         {
           "at": "2026-07-26T14:00:00.000Z",
           "chaosValue": 0.75
         },
         {
-          "at": "2026-07-29T18:00:00.000Z",
+          "at": "2026-07-29T19:00:00.000Z",
           "chaosValue": 0.75
         }
       ],
@@ -142,18 +142,18 @@
         "en": "Orb of Alchemy"
       },
       "category": "一般通貨",
-      "chaosValue": 0.142,
-      "divineValue": 0.0009,
-      "volume": 203852,
-      "stock": 37185,
+      "chaosValue": 0.138,
+      "divineValue": 0.0008,
+      "volume": 196021,
+      "stock": 34548,
       "history": [
         {
           "at": "2026-07-26T14:00:00.000Z",
           "chaosValue": 0.185
         },
         {
-          "at": "2026-07-29T18:00:00.000Z",
-          "chaosValue": 0.142
+          "at": "2026-07-29T19:00:00.000Z",
+          "chaosValue": 0.138
         }
       ],
       "officialTradeUrl": "https://pathofexile.tw/trade/exchange/亡焰咒海"
@@ -166,18 +166,18 @@
         "en": "Orb of Fusing"
       },
       "category": "品質通貨",
-      "chaosValue": 0.229,
-      "divineValue": 0.0014,
-      "volume": 1364563,
-      "stock": 158240,
+      "chaosValue": 0.563,
+      "divineValue": 0.0034,
+      "volume": 1349799,
+      "stock": 104318,
       "history": [
         {
           "at": "2026-07-26T14:00:00.000Z",
           "chaosValue": 0.35
         },
         {
-          "at": "2026-07-29T18:00:00.000Z",
-          "chaosValue": 0.229
+          "at": "2026-07-29T19:00:00.000Z",
+          "chaosValue": 0.563
         }
       ],
       "officialTradeUrl": "https://pathofexile.tw/trade/exchange/亡焰咒海"
@@ -191,16 +191,16 @@
       },
       "category": "品質通貨",
       "chaosValue": 1.5,
-      "divineValue": 0.0091,
-      "volume": 95189,
-      "stock": 17274,
+      "divineValue": 0.009,
+      "volume": 107163,
+      "stock": 21638,
       "history": [
         {
           "at": "2026-07-26T14:00:00.000Z",
           "chaosValue": 1.5
         },
         {
-          "at": "2026-07-29T18:00:00.000Z",
+          "at": "2026-07-29T19:00:00.000Z",
           "chaosValue": 1.5
         }
       ],
@@ -214,18 +214,18 @@
         "en": "Jeweller's Orb"
       },
       "category": "品質通貨",
-      "chaosValue": 0.039,
-      "divineValue": 0.0002,
-      "volume": 564816,
-      "stock": 72424,
+      "chaosValue": 0.047,
+      "divineValue": 0.0003,
+      "volume": 564713,
+      "stock": 69258,
       "history": [
         {
           "at": "2026-07-26T14:00:00.000Z",
           "chaosValue": 0.526
         },
         {
-          "at": "2026-07-29T18:00:00.000Z",
-          "chaosValue": 0.039
+          "at": "2026-07-29T19:00:00.000Z",
+          "chaosValue": 0.047
         }
       ],
       "officialTradeUrl": "https://pathofexile.tw/trade/exchange/亡焰咒海"
@@ -238,18 +238,18 @@
         "en": "Regal Orb"
       },
       "category": "一般通貨",
-      "chaosValue": 0.25,
-      "divineValue": 0.0015,
-      "volume": 39440,
-      "stock": 8978,
+      "chaosValue": 0.583,
+      "divineValue": 0.0035,
+      "volume": 35785,
+      "stock": 7487,
       "history": [
         {
           "at": "2026-07-26T14:00:00.000Z",
           "chaosValue": 0.583
         },
         {
-          "at": "2026-07-29T18:00:00.000Z",
-          "chaosValue": 0.25
+          "at": "2026-07-29T19:00:00.000Z",
+          "chaosValue": 0.583
         }
       ],
       "officialTradeUrl": "https://pathofexile.tw/trade/exchange/亡焰咒海"
@@ -262,18 +262,18 @@
         "en": "Orb of Scouring"
       },
       "category": "一般通貨",
-      "chaosValue": 0.625,
-      "divineValue": 0.0038,
-      "volume": 209253,
-      "stock": 38875,
+      "chaosValue": 0.458,
+      "divineValue": 0.0027,
+      "volume": 202553,
+      "stock": 38822,
       "history": [
         {
           "at": "2026-07-26T14:00:00.000Z",
           "chaosValue": 0.667
         },
         {
-          "at": "2026-07-29T18:00:00.000Z",
-          "chaosValue": 0.625
+          "at": "2026-07-29T19:00:00.000Z",
+          "chaosValue": 0.458
         }
       ],
       "officialTradeUrl": "https://pathofexile.tw/trade/exchange/亡焰咒海"
@@ -286,18 +286,18 @@
         "en": "Ancient Orb"
       },
       "category": "特殊通貨",
-      "chaosValue": 7.2,
-      "divineValue": 0.0435,
-      "volume": 26311,
-      "stock": 2253,
+      "chaosValue": 8,
+      "divineValue": 0.0478,
+      "volume": 26201,
+      "stock": 2596,
       "history": [
         {
           "at": "2026-07-26T14:00:00.000Z",
           "chaosValue": 4
         },
         {
-          "at": "2026-07-29T18:00:00.000Z",
-          "chaosValue": 7.2
+          "at": "2026-07-29T19:00:00.000Z",
+          "chaosValue": 8
         }
       ],
       "officialTradeUrl": "https://pathofexile.tw/trade/exchange/亡焰咒海"
@@ -310,18 +310,18 @@
         "en": "Cortex Fragment"
       },
       "category": "打王碎片",
-      "chaosValue": 12.5,
-      "divineValue": 0.0755,
-      "volume": 4179,
-      "stock": 1742,
+      "chaosValue": 14,
+      "divineValue": 0.0836,
+      "volume": 4335,
+      "stock": 1173,
       "history": [
         {
           "at": "2026-07-26T14:00:00.000Z",
           "chaosValue": 41
         },
         {
-          "at": "2026-07-29T18:00:00.000Z",
-          "chaosValue": 12.5
+          "at": "2026-07-29T19:00:00.000Z",
+          "chaosValue": 14
         }
       ],
       "officialTradeUrl": "https://pathofexile.tw/trade/exchange/亡焰咒海"
@@ -336,15 +336,15 @@
       "category": "聖甲蟲",
       "chaosValue": 0.75,
       "divineValue": 0.0045,
-      "volume": 1721,
-      "stock": 493,
+      "volume": 1286,
+      "stock": 259,
       "history": [
         {
           "at": "2026-07-26T14:00:00.000Z",
           "chaosValue": 0.667
         },
         {
-          "at": "2026-07-29T18:00:00.000Z",
+          "at": "2026-07-29T19:00:00.000Z",
           "chaosValue": 0.75
         }
       ],
